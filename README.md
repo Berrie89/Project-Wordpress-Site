@@ -4,11 +4,11 @@ The aim of this project is to create a high performing and highly available webs
 ## Solution Architecture
 ## Project Implementation
 1. Virtual Private Cloud (VPC): Amazon VPC is a logically isolated section of the Amazon Web Service(AWS) cloud where you can launch AWS resources in a virtual network that you define. VPCs are region wide. You can have up to 5 VPCs per region. Components of a VPC are;
-   i. Subnet: this is a segment of a VPC's IP address range where you can place groups of isolated resources. A subnet maps to an Availability Zone(AZ) i.e 1:1. You can 
+1.Subnet: this is a segment of a VPC's IP address range where you can place groups of isolated resources. A subnet maps to an Availability Zone(AZ) i.e 1:1. You can 
    have a public and private subnet.
-   ii. Internet Gateway: this allows resources in a VPC connect to the internet. This is attached to a VPC. You can only attach one Internet Gateway to a custom VPC.
-   iii. Network Access Translation(NAT) Gateway: this allows resources in a privae subnet access the internet. It is created in a public subnet
-   iv. Router: this performs routing between AZs in a region. It connects different AZs together and connects the VPC to the internet gateway. Each subnet has a route 
+2. Internet Gateway: this allows resources in a VPC connect to the internet. This is attached to a VPC. You can only attach one Internet Gateway to a custom VPC.
+3. Network Access Translation(NAT) Gateway: this allows resources in a privae subnet access the internet. It is created in a public subnet
+4. Router: this performs routing between AZs in a region. It connects different AZs together and connects the VPC to the internet gateway. Each subnet has a route 
    table that router uses to forward traffic within the VPC.
 2. Elastic Compute Cloud(EC2): this provides resizable compute capacity in the cloud that allows you to launch virtual server. Each virtual server is called an instance.
 3. Elastic File System(EFS): it is a fully managed service for hosting Network File System in the cloud. It provides elastic storage capacity and you pay for what you use. It grows and shrinks as you add and remove data. You can concurrently connect up to thousands of EC2 instances from multiple AZs. It is compatible with linux based Amazon Machine Image. It uses NFSv4.1 protocol. It uses POSIX file system that has a standard file API.
