@@ -23,17 +23,15 @@ The aim of this project is to create a high performing and highly available webs
    5. I created 2 route tables, one for the public subnet and the other for the private subnet.
    6. I also configured a subnet association for the route tables.
 Find screenshots below:
-![Screenshot 2024-10-14 144001](https://github.com/user-attachments/assets/a523be58-0949-40e4-ab73-26faeed3702e)24-10-14 142156 - Copy - Copy](https://github.com/user-attachments/assets/f53eaf37-944a-459b-9f83-5d5bf746f928)
 ![Screenshot 2024-10-14 142156](https://github.com/user-attachments/assets/c53e1abe-15dc-4bdb-a4f4-ae4a1cd637b7)
 ![Screenshot 2024-10-14 142248 - Copy - Copy](https://github.com/user-attachments/assets/551571e4-20eb-4078-a09e-5ea08a577236)
 ![Screenshot 2024-10-14 142248](https://github.com/user-attachments/assets/29c30083-f21d-4aaa-9dbc-0a7ed716e703)
-![Screenshot 2024-10-14 143129 - Copy - Copy](https://github.com/user-attachments/assets/842bb1b0-7fbc-406f-b78e-139971c29b70)
-![Screenshot 2024-10-14 143129 - Copy (2)](https://github.com/user-attachments/assets/077144a5-29c0-4da1-80e1-5dd7518c4b0c)
-![Screenshot 2024-10-14 143129 - Copy](https://github.com/user-attachments/assets/e6e6ac1d-fad3-45a0-a784-9eda6ccb7873)
-![Screenshot 2024-10-14 143129](https://github.com/user-attachments/assets/928ebfb0-7a6e-4a84-ba13-7af50d51a87b)
 ![Screenshot 2024-10-14 143329 - Copy - Copy](https://github.com/user-attachments/assets/d012d162-59ff-43b5-ae2e-f9e28d6e28f9)
 ![Screenshot 2024-10-14 143329 - Copy](https://github.com/user-attachments/assets/5b310e54-969a-4801-8d1b-8ff029bae433)
 ![Screenshot 2024-10-14 143329](https://github.com/user-attachments/assets/095522ac-4200-4748-b6b1-d8c90b2c3e03)
 ![Screenshot 2024-10-14 143445](https://github.com/user-attachments/assets/c404a832-c50d-4a6d-aa47-09903c639af5)
+### NAT Gateway Setup
+I configured a NAT gateway to allow resources in the private subnet access the internet.
+![Screenshot 2024-10-14 142156 - Copy - Copy](https://github.com/user-attachments/assets/c31df4d0-d57a-4ab2-b0cf-89a2bd46fc4e)
 
    
