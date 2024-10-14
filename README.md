@@ -27,11 +27,10 @@ Find screenshots below:
 ![Screenshot 2024-10-14 142248 - Copy - Copy](https://github.com/user-attachments/assets/551571e4-20eb-4078-a09e-5ea08a577236)
 ![Screenshot 2024-10-14 142248](https://github.com/user-attachments/assets/29c30083-f21d-4aaa-9dbc-0a7ed716e703)
 ![Screenshot 2024-10-14 143329 - Copy - Copy](https://github.com/user-attachments/assets/d012d162-59ff-43b5-ae2e-f9e28d6e28f9)
-![Screenshot 2024-10-14 143329 - Copy](https://github.com/user-attachments/assets/5b310e54-969a-4801-8d1b-8ff029bae433)
-![Screenshot 2024-10-14 143329](https://github.com/user-attachments/assets/095522ac-4200-4748-b6b1-d8c90b2c3e03)
-![Screenshot 2024-10-14 143445](https://github.com/user-attachments/assets/c404a832-c50d-4a6d-aa47-09903c639af5)
 ### NAT Gateway Setup
 I configured a NAT gateway to allow resources in the private subnet access the internet.
-![Screenshot 2024-10-14 142156 - Copy - Copy](https://github.com/user-attachments/assets/c31df4d0-d57a-4ab2-b0cf-89a2bd46fc4e)
+
+### Security Group Setup
+I configured the security group to control traffic in and out of the EC2 instance and RDS instance.
 
    
