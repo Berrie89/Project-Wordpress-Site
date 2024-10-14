@@ -29,7 +29,7 @@ Find screenshots below:
 ![Screenshot 2024-10-14 143329 - Copy - Copy](https://github.com/user-attachments/assets/d012d162-59ff-43b5-ae2e-f9e28d6e28f9)
 ### NAT Gateway Setup
 I configured a NAT gateway to allow resources in the private subnet access the internet.
-
+![Screenshot 2024-10-14 144001](https://github.com/user-attachments/assets/6960f6ee-f236-46d1-b3ed-8cbf03ae8d13)
 ### Security Group Setup
 I configured the security group to control traffic in and out of the EC2 instance and RDS instance.
 
