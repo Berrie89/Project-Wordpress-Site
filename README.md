@@ -24,7 +24,6 @@ The aim of this project is to create a high performing and highly available webs
    6. I also configured a subnet association for the route tables.
 Find screenshots below:
 ![Screenshot 2024-10-14 142156](https://github.com/user-attachments/assets/c53e1abe-15dc-4bdb-a4f4-ae4a1cd637b7)
-![Screenshot 2024-10-14 142248 - Copy - Copy](https://github.com/user-attachments/assets/551571e4-20eb-4078-a09e-5ea08a577236)
 ![Screenshot 2024-10-14 142248](https://github.com/user-attachments/assets/29c30083-f21d-4aaa-9dbc-0a7ed716e703)
 ![Screenshot 2024-10-14 143329 - Copy - Copy](https://github.com/user-attachments/assets/d012d162-59ff-43b5-ae2e-f9e28d6e28f9)
 ### NAT Gateway Setup
