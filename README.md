@@ -23,4 +23,5 @@ The aim of this project is to create a high performing and highly available webs
    5. I created 2 route tables, one for the public subnet and the other for the private subnet.
    6. I also configured a subnet association for the route tables.
 Find screenshots below:
+![Screenshot 2024-10-14 144001](https://github.com/user-attachments/assets/a523be58-0949-40e4-ab73-26faeed3702e)24-10-14 142156 - Copy - Copy](https://github.com/user-attachments/assets/f53eaf37-944a-459b-9f83-5d5bf746f928)
    
