@@ -32,5 +32,6 @@ I configured a NAT gateway to allow resources in the private subnet access the i
 ![Screenshot 2024-10-14 144001](https://github.com/user-attachments/assets/6960f6ee-f236-46d1-b3ed-8cbf03ae8d13)
 ### Security Group Setup
 I configured the security group to control traffic in and out of the EC2 instance and RDS instance.
+![Screenshot 2024-10-14 155655](https://github.com/user-attachments/assets/35871713-634f-43ad-93f0-29598d5d4fa9)
 
    
