@@ -25,6 +25,7 @@ The aim of this project is to create a high performing and highly available webs
 Find screenshots below:
 ![Screenshot 2024-10-14 142156](https://github.com/user-attachments/assets/c53e1abe-15dc-4bdb-a4f4-ae4a1cd637b7)
 ![Screenshot 2024-10-14 142248](https://github.com/user-attachments/assets/29c30083-f21d-4aaa-9dbc-0a7ed716e703)
+![Screenshot 2024-10-14 143129](https://github.com/user-attachments/assets/601235e8-43b5-4f2a-805c-a03d5179d0ec)
 ![Screenshot 2024-10-14 143329 - Copy - Copy](https://github.com/user-attachments/assets/d012d162-59ff-43b5-ae2e-f9e28d6e28f9)
 ### NAT Gateway Setup
 I configured a NAT gateway to allow resources in the private subnet access the internet.
